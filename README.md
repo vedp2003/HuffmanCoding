@@ -114,4 +114,4 @@ This project provided hands-on experience with the following:
 ---
 
 ## Conclusion
-The Huffman Coding Project was an exciting and educational experience that provided insights into compression techniques, tree data structures, and file handling in Java. By implementing Huffman Coding, I gained a deeper understanding of efficient algorithms and their real-world applications. This project showcased the importance of balancing theoretical knowledge with practical problem-solving to create meaningful software solutions.
+The Huffman Coding Project was an exciting experience that provided insights into compression techniques, tree data structures, and file handling in Java. By implementing Huffman Coding, I gained a deeper understanding of efficient algorithms and their real-world applications. This project showcased the importance of balancing theoretical knowledge with practical problem-solving to create meaningful software solutions.
